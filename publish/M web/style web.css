@@ -1,0 +1,15 @@
+body {
+  color: blue;
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
+.julukan {
+  color: rgb(255, 255, 255);
+  background-color: blue;
+}
+li:hover {
+  background-color: rgb(236, 236, 236);
+  transition: 0.5s ease-in-out;
+  border-radius: 10px;
+}
